@@ -1,0 +1,35 @@
+
+    Quora is a question-and-answer platform that allows users to ask and answer questions on a wide range of topics. Some of the features of Quora include:
+
+
+       1. Question and answer format: 
+
+                 Users can ask questions on any topic, and other users can answer those questions.
+
+       2. Follow topics: 
+
+                 Users can follow specific topics that interest them, such as technology, sports, or politics, and see questions and answers related to those topics in their feeds.
+
+       3. Upvoting and downvoting: 
+
+                Users can upvote or downvote answers based on their quality and relevance.
+
+       4. Comments: 
+
+               Users can leave comments on answers, asking for clarification or offering additional information.
+
+       5. Notifications: 
+
+               Users can receive notifications when their questions are answered or when someone comments on their answers.
+
+       6. User profiles: 
+
+              Users have their own profiles, where they can write about themselves, add links to their websites or social media profiles, and see their activity on the platform.
+
+      7. Quora Spaces: 
+
+              Quora Spaces is a feature that allows users to create and join communities based on specific topics or interests.
+
+      8. Quora Partner Program:
+ 
+             The Quora Partner Program allows users to earn money by asking questions and receiving high-quality answers.

@@ -1,0 +1,15 @@
+<header>
+    <% if(locals.user){ %>
+          <a href="/users/sign-out"> sign-out </a>
+          <p><%=locals.user.name%></p>
+          
+
+
+    <% }else{ %>
+       
+          <a href="/users/sign-in"> sign-in</a> <br>
+          <a href="/users/sign-up"> sign-up </a>
+    
+    <% } %>
+    
+</header>

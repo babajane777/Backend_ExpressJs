@@ -1,0 +1,12 @@
+#testdiv{
+    height:70%;
+    width: 100%;
+    background-color:rgba(5, 5, 111, 0.868);
+    color:white;
+    margin:auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
